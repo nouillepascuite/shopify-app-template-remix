@@ -14,7 +14,7 @@ export default function Index() {
       <TitleBar title="Dashboard" />
       <Card>
         <Text as="p" variant="bodyMd">
-          Hello World, test update live, Test update live 2
+          Hello World test update live zzz
         </Text>
       </Card>
     </Page>
